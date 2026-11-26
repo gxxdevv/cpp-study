@@ -21,11 +21,10 @@ Repositório criado para documentar minha evolução no aprendizado de **C++**. 
 
 * **Modularização:** Criação e chamada de funções personalizadas.
 
-# **Estruturas de Dados:** 
 
-* Vetores dinâmicos (`std::vector`).
+* **Vetores dinâmicos:** (`std::vector`).
 
-* Estruturas personalizadas (`struct`)
+* **Estruturas personalizadas:** (`struct`)
 
 ---
 
