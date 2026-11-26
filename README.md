@@ -13,7 +13,7 @@ Repositório criado para documentar minha evolução no aprendizado de **C++**. 
 
 ---
 
-##O que já foi estudado e implementado
+## O que já foi estudado e implementado
 
 > **Fundamentos:** Variáveis, entrada e saída de dados (`cin` e `cout`).
   
