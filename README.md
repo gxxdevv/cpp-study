@@ -7,7 +7,7 @@ Repositório criado para documentar minha evolução no aprendizado de **C++**. 
 ## Ambiente de Desenvolvimento
 
 ```c++
-unordered_map<string> dev = {
+unordered_map<string, string> dev = {
     {"dispositivo atual", "mobile"},
     {"ferramentas atuais", "c++ mobile"},
     {"linguagem", "c++"}
