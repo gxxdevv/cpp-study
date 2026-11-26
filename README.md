@@ -40,6 +40,6 @@ Repositório criado para documentar minha evolução no aprendizado de **C++**. 
       
 * [ ] Uso do operador de seta (`->`).
       
-* [ ] Evolução para projetos maiores de lógica.
+* [ ] Evolução para projetos maiores de lógica é backend.
 
 ---
