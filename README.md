@@ -15,15 +15,17 @@ Repositório criado para documentar minha evolução no aprendizado de **C++**. 
 
 ## O que já foi estudado e implementado
 
-> **Fundamentos:** Variáveis, entrada e saída de dados (`cin` e `cout`).
+* **Fundamentos:** Variáveis, entrada e saída de dados (`cin` e `cout`).
   
-> **Lógica e Controle:** Tomadas de decisão (`if`/`else`) e laços de repetição (`while`).
+* **Lógica e Controle:** Tomadas de decisão (`if`/`else`) e laços de repetição (`while`).
 
-> **Modularização:** Criação e chamada de funções personalizadas.
+* **Modularização:** Criação e chamada de funções personalizadas.
 
-> **Estruturas de Dados:** 
-  * Vetores dinâmicos (`std::vector`).
-  * Estruturas personalizadas (`struct`)
+# **Estruturas de Dados:** 
+
+* Vetores dinâmicos (`std::vector`).
+
+* Estruturas personalizadas (`struct`)
 
 ---
 
