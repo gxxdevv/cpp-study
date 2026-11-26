@@ -6,12 +6,15 @@ Repositório criado para documentar minha evolução no aprendizado de **C++**. 
 
 ## Ambiente de Desenvolvimento
 > **Dispositivo atual:** Mobile
+
 > **Ferramentas atuais:** C++ compiler
+
 > **Linguagem:** C++
 
 ---
 
 ##O que já foi estudado e implementado
+
 > **Fundamentos:** Variáveis, entrada e saída de dados (`cin` e `cout`).
   
 > **Lógica e Controle:** Tomadas de decisão (`if`/`else`) e laços de repetição (`while`).
@@ -31,6 +34,7 @@ Repositório criado para documentar minha evolução no aprendizado de **C++**. 
 ---
 
 ## Próximos Passos
+
 * [ ] Aprofundamento em Ponteiros e alocação de memória.
       
 * [ ] Uso do operador de seta (`->`).
