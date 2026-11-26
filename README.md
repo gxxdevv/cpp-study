@@ -5,11 +5,14 @@ Repositório criado para documentar minha evolução no aprendizado de **C++**. 
 ---
 
 ## Ambiente de Desenvolvimento
-> **Dispositivo atual:** Mobile
 
-> **Ferramentas atuais:** C++ mobile 
-
-> **Linguagem:** C++
+```c++
+unordered_map<string> dev = {
+    {"dispositivo atual", "mobile"},
+    {"ferramentas atuais", "c++ mobile"},
+    {"linguagem", "c++"}
+};
+```
 
 ---
 
