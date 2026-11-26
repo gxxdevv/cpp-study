@@ -7,7 +7,7 @@ Repositório criado para documentar minha evolução no aprendizado de **C++**. 
 ## Ambiente de Desenvolvimento
 > **Dispositivo atual:** Mobile
 
-> **Ferramentas atuais:** C++ compiler
+> **Ferramentas atuais:** C++ compiler mobile 
 
 > **Linguagem:** C++
 
