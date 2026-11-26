@@ -6,6 +6,7 @@ Repositório criado para documentar minha evolução no aprendizado de **C++**. 
 
 ## Ambiente de Desenvolvimento
 
+**ilustração**
 ```c++
 unordered_map<string, string> dev = {
     {"dispositivo atual", "mobile"},
